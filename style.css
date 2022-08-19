@@ -1,7 +1,11 @@
+h1 {
+    text-align: center;
+}
 p {
     color:red;
-};
+}
 div {
     margin: 0px auto;
     background-color: #8ccafa;
+    text-align: center;
 }
